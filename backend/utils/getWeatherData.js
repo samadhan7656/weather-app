@@ -1,6 +1,6 @@
 const fetch = require('node-fetch');
 
-const API_KEY = 'ea9f1b951e925127406cd878d46925c6'
+const API_KEY = process.env.API_KEY;
 const BASE_URL = 'http://api.openweathermap.org/data/2.5/';
 
 const getWeatherData = async (infoType, searchParams) => {
