@@ -1,6 +1,6 @@
 # Real-Time Data Processing System for Weather Monitoring with Rollups and Aggregates
 
-Hosted link: https://app1-rule-engine-with-ast.onrender.com/
+Hosted link: https://weather-app-samadhan.vercel.app/
 
 ## Objective
 
