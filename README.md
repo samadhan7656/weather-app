@@ -84,8 +84,8 @@ For each received weather update:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/samadhan7656/weather-app.git
-   cd weather-app/frontend
+   git clone https://github.com/samadhan7656/weather-app-samadhan.git
+   cd weather-app-samadhan/frontend
    ```
 
 2. Install Dependencies
